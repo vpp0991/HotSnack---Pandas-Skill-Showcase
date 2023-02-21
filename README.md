@@ -12,7 +12,7 @@ The following analysis will look to showcase the following skillset:
 - 📊 **Data Analytics Knowledge:** Ability to utilize 🐍 python and 🐼 pandas to clean and analyze data
 - 🔥 **Providing Data-driven Insights:** Ability to dive into the root cause and provide actionable recommendations 
 
-[HotSnack Data Exercise Analysis](https://github.com/Vibhesh91/SellCollect-Tableau-https://github.com/Vibhesh91/HotSnack---Pandas-Skill-Showcase/blob/803b95a13fa98af30da1e32eb808ed727120eced/HotSnack%20Delivery%20Platform%20Sample%20Analysis.ipynb)
+[HotSnack Data Exercise Analysis](https://github.com/Vibhesh91/HotSnack---Pandas-Skill-Showcase/blob/803b95a13fa98af30da1e32eb808ed727120eced/HotSnack%20Delivery%20Platform%20Sample%20Analysis.ipynb)
 _Note: Best viewed on Google Chrome_
 
 _Disclaimer: This portfolio is for illustrative purposes to showcase analytical skills. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page_
