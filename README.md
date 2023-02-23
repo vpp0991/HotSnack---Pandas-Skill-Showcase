@@ -16,4 +16,4 @@ The following analysis will look to showcase the following skillset:
 _Note: Best viewed on Google Chrome_<br>
 [HotSnack Analytics Summary](https://github.com/Vibhesh91/HotSnack---Pandas-Skill-Showcase/blob/f7bdb7f75cc982e6b54d59daf77566be4598050c/HotSnack%20Analytics%20Summary.pdf)
 
-_Disclaimer: This portfolio is for illustrative purposes to showcase analytical skills. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page_
+_Disclaimer: This portfolio is for illustrative purposes to showcase analytical skills. The content is not business advice. The contents of this portfolio are not associated with any current employer or former employer and is solely used as a personal page. All files were produced on Mac OS_
